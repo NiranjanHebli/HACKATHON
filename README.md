@@ -1,5 +1,6 @@
 
-# Plant Disease Detection
+# Plant Disease Detector and Pesticide Predictor
+
 
 
 ## Introduction
